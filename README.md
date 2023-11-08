@@ -4,6 +4,8 @@
 
 This project is an interactive number guessing game developed in Python with the Tkinter framework. It allows players to draw numbers on the screen, and a pre-trained neural network model, utilizing the MNIST dataset, provides real-time recognition.
 
+![Demo game](images/demo.gif)
+
 ### Installation
 
 To run the game locally, follow these steps:
